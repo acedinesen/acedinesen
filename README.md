@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acedinesen
-- 👀 I’m interested in F#
+- 👀 I’m interested in F# C#
 - 🌱 I’m currently learning dart and flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me acedinesen@gmail.com 
